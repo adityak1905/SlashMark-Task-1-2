@@ -1,5 +1,6 @@
 # Text-To-Art
 The art work based on the given prompts:
+# Both TASK-1 & TASK-2 ARE HERE SCROLL DOWN :
 
 1.Given Prompt :  an illustration of a baby daikon radish in a tutu walking a dog.
 Detailed description of the given prompt : Please create an adorable illustration of a baby daikon radish wearing a cute tutu and confidently walking a dog. The daikon radish should have a cheerful expression on its face, and the dog should be a friendly and lovable companion. The illustration should capture the playful nature of the scene and evoke a sense of joy and innocence.
